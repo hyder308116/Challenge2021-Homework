@@ -1,4 +1,3 @@
-#11
 import pygame as pg
 
 from EventManager import EventManager
